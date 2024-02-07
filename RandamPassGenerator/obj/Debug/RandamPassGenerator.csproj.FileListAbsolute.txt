@@ -1,0 +1,8 @@
+F:\OOP\RandamPassGenerator\RandamPassGenerator\bin\Debug\RandamPassGenerator.exe.config
+F:\OOP\RandamPassGenerator\RandamPassGenerator\bin\Debug\RandamPassGenerator.exe
+F:\OOP\RandamPassGenerator\RandamPassGenerator\bin\Debug\RandamPassGenerator.pdb
+F:\OOP\RandamPassGenerator\RandamPassGenerator\obj\Debug\RandamPassGenerator.csproj.AssemblyReference.cache
+F:\OOP\RandamPassGenerator\RandamPassGenerator\obj\Debug\RandamPassGenerator.csproj.SuggestedBindingRedirects.cache
+F:\OOP\RandamPassGenerator\RandamPassGenerator\obj\Debug\RandamPassGenerator.csproj.CoreCompileInputs.cache
+F:\OOP\RandamPassGenerator\RandamPassGenerator\obj\Debug\RandamPassGenerator.exe
+F:\OOP\RandamPassGenerator\RandamPassGenerator\obj\Debug\RandamPassGenerator.pdb
